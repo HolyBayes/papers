@@ -23,6 +23,8 @@ AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 Inference: Tutorial and Review, [arXiv:1805.00909](https://arxiv.org/pdf/1805.00909.pdf)
 * **30 Oct 2015**, Learning Continuous Control Policies by
 Stochastic Value Gradients, (arXiv:1510.09142)[https://arxiv.org/pdf/1510.09142.pdf]
+* State Representation Learning for Control: An Overview
+, (arXiv:1802.04181)[https://arxiv.org/pdf/1802.04181.pdf]
 
 
 # Computer Vision/Deep Learning
@@ -34,4 +36,3 @@ using cycle-consistent adversarial networks (Cycle GAN), [arXiv:1703.10593](http
 * Unsupervised image-to-image translation networks (UNIT)
 * Multimodal Unsupervised Image-to-Image Translation (MUNIT)
 * **11 Jun 2018**, Group Normalization, [arXiv:1803.08494](https://arxiv.org/pdf/1803.08494.pdf)
-*
