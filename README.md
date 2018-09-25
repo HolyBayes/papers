@@ -1,6 +1,6 @@
 The repository contains personal list of articles to read
 
-# Bayes Learning
+# Bayesian methods
 * **12 Jun, 2017**, Multiplicative Normalizing Flows for Variational Bayesian Neural Networks, [arXiv:1703.01961](https://arxiv.org/pdf/1703.01961.pdf)
 * **5 Jun, 2018**, Deep Gaussian Processes with Convolutional
 Kernels, [arXiv:1806.01655](https://arxiv.org/pdf/1806.01655.pdf)
