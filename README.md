@@ -26,6 +26,8 @@ Stochastic Value Gradients, (arXiv:1510.09142)[https://arxiv.org/pdf/1510.09142.
 * State Representation Learning for Control: An Overview
 , (arXiv:1802.04181)[https://arxiv.org/pdf/1802.04181.pdf]
 
+See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
+
 
 # Computer Vision/Deep Learning
 * Image Style Transfer Using Convolutional Neural Networks
@@ -36,3 +38,9 @@ using cycle-consistent adversarial networks (Cycle GAN), [arXiv:1703.10593](http
 * Unsupervised image-to-image translation networks (UNIT)
 * Multimodal Unsupervised Image-to-Image Translation (MUNIT)
 * **11 Jun 2018**, Group Normalization, [arXiv:1803.08494](https://arxiv.org/pdf/1803.08494.pdf)
+* **21 May 2018**, Self-Attention Generative Adversarial Networks, [arXiv:1805.08318](https://arxiv.org/pdf/1805.08318.pdf)
+* **9 Mar 2017**, A STRUCTURED SELF-ATTENTIVE
+SENTENCE EMBEDDING, [arXiv:1703.03130](https://arxiv.org/pdf/1703.03130.pdf)
+
+# Others
+* **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
