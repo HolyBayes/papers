@@ -14,6 +14,9 @@ Kernels, [arXiv:1806.01655](https://arxiv.org/pdf/1806.01655.pdf)
 AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 * **12 Mar 2018**, Wasserstein Auto-Encoders, [arXiv:1711.01558](https://arxiv.org/pdf/1711.01558.pdf)
 * **5 Jun 2018**, State Representation Learning for Control: An Overview, [arXiv:1802.04181](https://arxiv.org/pdf/1802.04181.pdf)
+* **30 May 2018**, Neural Discrete Representation Learning (Discrete VAE) ,[arXiv:1711.00937](https://arxiv.org/pdf/1711.00937.pdf)
+
+
 
 # Reinforcement Learning
 * [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/pdf/1704.06440.pdf)
@@ -22,9 +25,10 @@ AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 * **20 May 2018**, (!!!) Reinforcement Learning and Control as Probabilistic
 Inference: Tutorial and Review, [arXiv:1805.00909](https://arxiv.org/pdf/1805.00909.pdf)
 * **30 Oct 2015**, Learning Continuous Control Policies by
-Stochastic Value Gradients, (arXiv:1510.09142)[https://arxiv.org/pdf/1510.09142.pdf]
+Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.pdf)
 * State Representation Learning for Control: An Overview
-, (arXiv:1802.04181)[https://arxiv.org/pdf/1802.04181.pdf]
+, [arXiv:1802.04181](https://arxiv.org/pdf/1802.04181.pdf)
+* Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [arXiv:1805.12114](https://arxiv.org/pdf/1805.12114.pdf)
 
 See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
 
