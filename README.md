@@ -58,3 +58,4 @@ for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/
 
 # Briefs
 * **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
+* [Auto-regressive models (PixelRNN/PixelCNN)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
