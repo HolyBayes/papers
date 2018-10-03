@@ -1,6 +1,9 @@
 The repository contains personal list of articles to read
 
 # Bayesian methods
+* **26 June, 2016**, Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors, [arXiv:1603.04733](https://arxiv.org/pdf/1603.04733.pdf)
+* **1 June, 2016**, Black-Box $\alpha$-Divergence Minimization, [arXiv:1511.03243](https://arxiv.org/pdf/1511.03243.pdf)
+* **15 June, 2018**, (ICML 2018), Neural Autoregressive Flows, [arXiv:1804.00779](https://arxiv.org/pdf/1804.00779.pdf)
 * **14 June, 2016**, Variational Inference with Normalizing Flows, [arXiv:1505.05770](https://arxiv.org/pdf/1505.05770.pdf)
 * **12 Jun, 2017**, Multiplicative Normalizing Flows for Variational Bayesian Neural Networks, [arXiv:1703.01961](https://arxiv.org/pdf/1703.01961.pdf)
 * **5 Jun, 2018**, Deep Gaussian Processes with Convolutional
@@ -46,6 +49,12 @@ using cycle-consistent adversarial networks (Cycle GAN), [arXiv:1703.10593](http
 * **21 May 2018**, Self-Attention Generative Adversarial Networks, [arXiv:1805.08318](https://arxiv.org/pdf/1805.08318.pdf)
 * **9 Mar 2017**, A STRUCTURED SELF-ATTENTIVE
 SENTENCE EMBEDDING, [arXiv:1703.03130](https://arxiv.org/pdf/1703.03130.pdf)
+* **15 Jun 2018**, A Hierarchical Latent Vector Model
+for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/v80/roberts18a/roberts18a.pdf)
+* **19 Jan 2018**, PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS, [arXiv:1701.05517](https://arxiv.org/pdf/1701.05517.pdf)
 
 # Others
 * **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
+
+# Briefs
+* **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
