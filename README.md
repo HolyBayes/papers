@@ -6,6 +6,7 @@ The repository contains personal list of articles to read
 - [x] **15 June, 2018**, (ICML 2018), Neural Autoregressive Flows, [arXiv:1804.00779](https://arxiv.org/pdf/1804.00779.pdf)
 - [x] **14 June, 2016**, Variational Inference with Normalizing Flows, [arXiv:1505.05770](https://arxiv.org/pdf/1505.05770.pdf)
 - [x] **12 Jun, 2017**, Multiplicative Normalizing Flows for Variational Bayesian Neural Networks, [arXiv:1703.01961](https://arxiv.org/pdf/1703.01961.pdf)
+- [ ] Deep Gaussian Processes, [paper](http://proceedings.mlr.press/v31/damianou13a.pdf)
 - [ ] **5 Jun, 2018**, Deep Gaussian Processes with Convolutional
 Kernels, [arXiv:1806.01655](https://arxiv.org/pdf/1806.01655.pdf)
 - [ ] **28 May, 2018**, Semi-Implicit Variational Inference, [arXiv:1805.11183v1](https://arxiv.org/pdf/1805.11183v1.pdf)
