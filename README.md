@@ -58,3 +58,4 @@ for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/
 # Briefs
 - [x] **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
 - [x] [Auto-regressive models (PixelRNN/PixelCNN)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
+- [ ] [Normalizing flows](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-09-Introduction-to-Normalizing-Flows)
