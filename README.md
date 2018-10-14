@@ -32,11 +32,16 @@ Inference: Tutorial and Review, [arXiv:1805.00909](https://arxiv.org/pdf/1805.00
 Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.pdf)
 - [ ] State Representation Learning for Control: An Overview, [arXiv:1802.04181](https://arxiv.org/pdf/1802.04181.pdf)
 - [ ] Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [arXiv:1805.12114](https://arxiv.org/pdf/1805.12114.pdf)
+- [ ] **11 Oct 2018**, ACTOR-ATTENTION-CRITIC FOR MULTI-AGENT REINFORCEMENT LEARNING, [arXiv:1810.02912](https://arxiv.org/abs/1810.02912)
+- [ ] **28 Nov 2017**, Actor-Critic Sequence Training for Image Captioning, [arXiv:1706.09601](https://arxiv.org/abs/1706.09601)
+
 
 See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
 
 
 # Computer Vision/Deep Learning
+- [ ] **11 Aug 2018**, Pervasive Attention: 2D Convolutional Neural Networks
+for Sequence-to-Sequence Prediction, [arXiv:1808.03867](https://arxiv.org/abs/1808.03867)
 - [ ] Image Style Transfer Using Convolutional Neural Networks
 - [ ] **16 Apr 2018**, DCAN: Dual Channel-wise Alignment Networks for Unsupervised Scene Adaptation, [arXiv:1804.05827](https://arxiv.org/pdf/1804.05827.pdf)
 - [ ] Unsupervised pixel-level domain adaptation with generative adversarial networks (PixelDA)
