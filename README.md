@@ -9,7 +9,6 @@ The repository contains personal list of articles to read
 - [x] Deep Gaussian Processes (DGPs), [paper](http://proceedings.mlr.press/v31/damianou13a.pdf)
 - [x] **5 Jun, 2018**, Deep Gaussian Processes with Convolutional
 Kernels, [arXiv:1806.01655](https://arxiv.org/pdf/1806.01655.pdf)
-- [ ] **28 May, 2018**, Semi-Implicit Variational Inference, [arXiv:1805.11183v1](https://arxiv.org/pdf/1805.11183v1.pdf)
 - [ ] **9 Jul 2017**, An Efficient Minibatch Acceptance Test for Metropolis-Hastings, [arXiv1610.06848](https://arxiv.org/pdf/1610.06848.pdf)
 - [ ] **13 Oct 2009**, On Integral Probability Metrics, φ-Divergences and Binary Classification, [arXiv:0901.2698](https://arxiv.org/pdf/0901.2698.pdf)
 - [ ] **5 Jan 2016**, Gradient Estimation Using Stochastic Computation Graphs, [arXiv:1506.05254](https://arxiv.org/pdf/1506.05254.pdf)
