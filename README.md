@@ -19,7 +19,7 @@ Kernels, [arXiv:1806.01655](https://arxiv.org/pdf/1806.01655.pdf)
 AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 - [x] **12 Mar 2018**, Wasserstein Auto-Encoders, [arXiv:1711.01558](https://arxiv.org/pdf/1711.01558.pdf)
 - [ ] **30 May 2018**, Neural Discrete Representation Learning (Discrete VAE) ,[arXiv:1711.00937](https://arxiv.org/pdf/1711.00937.pdf)
-
+- [ ] **5 Oct 2018**, Doubly Semi-Implicit Variational Inference, [arXiv:1810.02789](https://arxiv.org/pdf/1810.02789.pdf)
 
 
 # Reinforcement Learning
