@@ -38,9 +38,6 @@ Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.
 - [ ] **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
 
 
-See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
-
-
 # Computer Vision/Deep Learning
 - [ ] **11 Aug 2018**, Pervasive Attention: 2D Convolutional Neural Networks
 for Sequence-to-Sequence Prediction, [arXiv:1808.03867](https://arxiv.org/abs/1808.03867)
@@ -63,3 +60,8 @@ for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/
 - [x] **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
 - [x] [Auto-regressive models (PixelRNN/PixelCNN)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 - [x] [Normalizing flows presentation](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-09-Introduction-to-Normalizing-Flows)
+
+# References
+
+See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
+ and [@aleju](https://github.com/aleju/papers)
