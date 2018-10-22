@@ -17,7 +17,7 @@ Kernels, [arXiv:1806.01655](https://arxiv.org/pdf/1806.01655.pdf)
 - [ ] **30 Nov 2017**, AUXILIARY GUIDED AUTOREGRESSIVE VARIATIONAL
 AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 - [x] **12 Mar 2018**, Wasserstein Auto-Encoders, [arXiv:1711.01558](https://arxiv.org/pdf/1711.01558.pdf)
-- [ ] **30 May 2018**, Neural Discrete Representation Learning (Discrete VAE) ,[arXiv:1711.00937](https://arxiv.org/pdf/1711.00937.pdf)
+- [x] **30 May 2018**, Neural Discrete Representation Learning (Discrete VAE) ,[arXiv:1711.00937](https://arxiv.org/pdf/1711.00937.pdf)
 - [x] **28 May 2018**, Semi-Implicit Variational Inference, [arXiv:1805.11183](https://arxiv.org/pdf/1805.11183.pdf)
 - [x] **5 Oct 2018**, Doubly Semi-Implicit Variational Inference, [arXiv:1810.02789](https://arxiv.org/pdf/1810.02789.pdf)
 
@@ -35,6 +35,7 @@ Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.
 - [ ] Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [arXiv:1805.12114](https://arxiv.org/pdf/1805.12114.pdf)
 - [ ] **11 Oct 2018**, ACTOR-ATTENTION-CRITIC FOR MULTI-AGENT REINFORCEMENT LEARNING, [arXiv:1810.02912](https://arxiv.org/abs/1810.02912)
 - [ ] **28 Nov 2017**, Actor-Critic Sequence Training for Image Captioning, [arXiv:1706.09601](https://arxiv.org/abs/1706.09601)
+- [ ] **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
 
 
 See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
@@ -57,9 +58,6 @@ SENTENCE EMBEDDING, [arXiv:1703.03130](https://arxiv.org/pdf/1703.03130.pdf)
 - [ ] **15 Jun 2018**, A Hierarchical Latent Vector Model
 for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/v80/roberts18a/roberts18a.pdf)
 - [ ] **19 Jan 2018**, PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS, [arXiv:1701.05517](https://arxiv.org/pdf/1701.05517.pdf)
-
-# Others
-- [ ] **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
 
 # Briefs
 - [x] **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
