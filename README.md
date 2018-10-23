@@ -63,5 +63,5 @@ for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/
 
 # References
 
-See also cool collection of (mainly RL) papers from [@Scitator](https://github.com/Scitator/papers)
- and [@aleju](https://github.com/aleju/papers)
+See also cool collection of papers from [@Scitator](https://github.com/Scitator/papers) (mainly RL) 
+ and [@aleju](https://github.com/aleju/papers) (mainly DL)
