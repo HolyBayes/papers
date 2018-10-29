@@ -20,7 +20,7 @@ AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 - [x] **30 May 2018**, Neural Discrete Representation Learning (Discrete VAE) ,[arXiv:1711.00937](https://arxiv.org/pdf/1711.00937.pdf)
 - [x] **28 May 2018**, Semi-Implicit Variational Inference, [arXiv:1805.11183](https://arxiv.org/pdf/1805.11183.pdf)
 - [x] **5 Oct 2018**, Doubly Semi-Implicit Variational Inference, [arXiv:1810.02789](https://arxiv.org/pdf/1810.02789.pdf)
-
+- [ ] **ICML 2017**, [Random Feature Expansions for Deep Gaussian Processes](http://ebonilla.github.io/papers/cutajar-et-al-icml-2017.pdf)
 
 
 # Reinforcement Learning
