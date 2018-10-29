@@ -36,6 +36,7 @@ Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.
 - [ ] **11 Oct 2018**, ACTOR-ATTENTION-CRITIC FOR MULTI-AGENT REINFORCEMENT LEARNING, [arXiv:1810.02912](https://arxiv.org/abs/1810.02912)
 - [ ] **28 Nov 2017**, Actor-Critic Sequence Training for Image Captioning, [arXiv:1706.09601](https://arxiv.org/abs/1706.09601)
 - [ ] **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
+- [ ] **5 Jun 2018**, SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation, [arXiv:1712.10285.pdf](https://arxiv.org/pdf/1712.10285.pdf)
 
 
 # Computer Vision/Deep Learning
