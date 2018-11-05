@@ -39,6 +39,7 @@ Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.
 - [ ] **28 Nov 2017**, Actor-Critic Sequence Training for Image Captioning, [arXiv:1706.09601](https://arxiv.org/abs/1706.09601)
 - [ ] **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
 - [ ] **5 Jun 2018**, SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation, [arXiv:1712.10285.pdf](https://arxiv.org/pdf/1712.10285.pdf)
+- [ ] **26 Jun 2018**, Deep Generative Models with Learnable Knowledge Constraints, [arXiv:1806.09764](https://arxiv.org/pdf/1806.09764.pdf)
 
 
 # Computer Vision/Deep Learning
