@@ -33,13 +33,16 @@ AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 Inference: Tutorial and Review, [arXiv:1805.00909](https://arxiv.org/pdf/1805.00909.pdf)
 - [ ] **30 Oct 2015**, Learning Continuous Control Policies by
 Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.pdf)
-- [ ] State Representation Learning for Control: An Overview, [arXiv:1802.04181](https://arxiv.org/pdf/1802.04181.pdf)
+- [ ] State Representation Learning for Control: An Overview, [arXiv:1802.04181](https://arxiv.org/pdf/1802.04181.pdf)- [ ]
 - [ ] Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [arXiv:1805.12114](https://arxiv.org/pdf/1805.12114.pdf)
 - [ ] **11 Oct 2018**, ACTOR-ATTENTION-CRITIC FOR MULTI-AGENT REINFORCEMENT LEARNING, [arXiv:1810.02912](https://arxiv.org/abs/1810.02912)
 - [ ] **28 Nov 2017**, Actor-Critic Sequence Training for Image Captioning, [arXiv:1706.09601](https://arxiv.org/abs/1706.09601)
 - [ ] **4 Apr 2018**, On First-Order Meta-Learning Algorithms, [arXiv:1803.02999](https://arxiv.org/pdf/1803.02999.pdf)
 - [ ] **5 Jun 2018**, SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation, [arXiv:1712.10285.pdf](https://arxiv.org/pdf/1712.10285.pdf)
 - [ ] **26 Jun 2018**, Deep Generative Models with Learnable Knowledge Constraints, [arXiv:1806.09764](https://arxiv.org/pdf/1806.09764.pdf)
+- [ ] **5 Nov 2018**, QUOTA: The Quantile Option Architecture for Reinforcement Learning, [arXiv:1811.02073](https://arxiv.org/abs/1811.02073)
+- [ ] **4 Nov 2018**, Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning, [arXiv:1811.01458](https://arxiv.org/abs/1811.01458)
+- [ ] **6 Nov 2018**, Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?, [arXiv:1811.02553v1](https://arxiv.org/abs/1811.02553v1)
 
 
 # Computer Vision/Deep Learning
