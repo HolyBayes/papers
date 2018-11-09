@@ -62,6 +62,7 @@ SENTENCE EMBEDDING, [arXiv:1703.03130](https://arxiv.org/pdf/1703.03130.pdf)
 - [ ] **15 Jun 2018**, A Hierarchical Latent Vector Model
 for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/v80/roberts18a/roberts18a.pdf)
 - [ ] **19 Jan 2018**, PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS, [arXiv:1701.05517](https://arxiv.org/pdf/1701.05517.pdf)
+- [ ] **23 Jun 2018**, DARTS: Differentiable Architecture Search, [arXiv:1806.09055](https://arxiv.org/pdf/1806.09055.pdf)
 
 # Briefs
 - [x] **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
