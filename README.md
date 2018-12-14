@@ -46,6 +46,7 @@ Stochastic Value Gradients, [arXiv:1510.09142](https://arxiv.org/pdf/1510.09142.
 
 
 # Computer Vision/Deep Learning
+- [ ] **29 Nov 2018**, ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness, [arXiv:1811.12231](https://arxiv.org/abs/1811.12231)
 - [ ] **11 Aug 2018**, Pervasive Attention: 2D Convolutional Neural Networks
 for Sequence-to-Sequence Prediction, [arXiv:1808.03867](https://arxiv.org/abs/1808.03867)
 - [ ] Image Style Transfer Using Convolutional Neural Networks
