@@ -24,6 +24,7 @@ AUTOENCODERS, [arXiv:1711.11479](https://arxiv.org/pdf/1711.11479.pdf)
 - [ ] **18 Jun 2018**, Constraining the Dynamics of Deep Probabilistic Models, [arXiv:1802.05680](https://arxiv.org/pdf/1802.05680.pdf)
 - [ ] **3 Aug 2017**, On Calibration of Modern Neural Networks, [arXiv:1706.04599](https://arxiv.org/pdf/1706.04599.pdf)
 - [ ] **22 Oct 2018**, Uncertainty in Neural Networks: Bayesian Ensembling, [arXiv:1810.05546](https://arxiv.org/pdf/1810.05546.pdf)
+- [ ] **17 Oct 2017**, https://arxiv.org/pdf/1710.08899.pdf, [arXiv:1710.08899](https://arxiv.org/pdf/1710.08899.pdf)
 
 # Reinforcement Learning
 - [x] [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/pdf/1704.06440.pdf)
