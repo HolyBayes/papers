@@ -66,6 +66,7 @@ SENTENCE EMBEDDING, [arXiv:1703.03130](https://arxiv.org/pdf/1703.03130.pdf)
 for Learning Long-Term Structure in Music, [paper](http://proceedings.mlr.press/v80/roberts18a/roberts18a.pdf)
 - [ ] **19 Jan 2018**, PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS, [arXiv:1701.05517](https://arxiv.org/pdf/1701.05517.pdf)
 - [x] **23 Jun 2018**, DARTS: Differentiable Architecture Search, [arXiv:1806.09055](https://arxiv.org/pdf/1806.09055.pdf)
+- [ ] **25 May 2016**, Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning, [paper](https://arxiv.org/abs/1605.08104), [brief](https://coxlab.github.io/prednet/)
 
 # Briefs
 - [x] **ICML, 2018**, [habr](https://habr.com/company/yandex/blog/418421/)
